@@ -99,7 +99,6 @@ toml==0.10.2
 toolz==0.12.1
 
 
-torchvision==0.17.1+cu118
 tornado==6.4
 traitlets==5.14.1
 transformers==4.38.2
