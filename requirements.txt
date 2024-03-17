@@ -34,7 +34,7 @@ glob2==0.7
 h11==0.14.0
 huggingface-hub==0.21.4
 importlib-metadata==7.0.1
-ipython==8.20.0
+
 ipywidgets==8.1.1
 itsdangerous==2.1.2
 jedi==0.19.1
