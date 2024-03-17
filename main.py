@@ -27,7 +27,6 @@ async def create_item(query: str, document: UploadFile = File(...)):
         logger.error("Error processing query: %s", e)
         return {"error": "Failed to retrieve answer."}
 
-
 # from fastapi import FastAPI, File, UploadFile
 # from transformers import pipeline
 
