@@ -1,0 +1,11 @@
+# Dockerfile for Streamlit app
+FROM python:3.9
+
+WORKDIR /app
+COPY frontend_streamlit.py /app/
+COPY requirements.txt /app/
+RUN pip install --no-cache-dir -r requirements.txt
+
+EXPOSE 8501
+
+CMD ["streamlit", "run", "frontend_streamlit.py"]
