@@ -6,15 +6,10 @@ anyio==4.3.0
 asttokens==2.4.1
 attrs==23.2.0
 blinker==1.7.0
-boltons @ file:///C:/ci_311/boltons_1677729932371/work
 boto3==1.34.60
 botocore==1.34.60
-Brotli @ file:///C:/ci_311/brotli-split_1676435766766/work
 cachetools==5.3.3
-
-charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
 click==8.1.7
-colorama @ file:///C:/ci_311/colorama_1676422310965/work
 comm==0.2.1
 
 
@@ -38,7 +33,6 @@ GitPython==3.1.42
 glob2==0.7
 h11==0.14.0
 huggingface-hub==0.21.4
-idna @ file:///C:/ci_311/idna_1676424932545/work
 importlib-metadata==7.0.1
 ipython==8.20.0
 ipywidgets==8.1.1
@@ -46,20 +40,17 @@ itsdangerous==2.1.2
 jedi==0.19.1
 Jinja2==3.1.3
 jmespath==1.0.1
-jsonpatch @ file:///tmp/build/80754af9/jsonpatch_1615747632069/work
 jsonpointer==2.1
 jsonschema==4.21.1
 jsonschema-specifications==2023.12.1
 jupyter_core==5.7.1
 jupyterlab-widgets==3.0.9
 kiwisolver==1.4.5
-libmambapy @ file:///C:/b/abs_efpsdwt4ya/croot/mamba-split_1698782663578/work/libmambapy
 markdown-it-py==3.0.0
 MarkupSafe==2.1.4
 matplotlib==3.8.3
 matplotlib-inline==0.1.6
 mdurl==0.1.2
-menuinst @ file:///C:/b/abs_e8p75b4m9q/croot/menuinst_1702390332729/work
 mpmath==1.3.0
 nbformat==5.9.2
 nest-asyncio==1.6.0
@@ -67,29 +58,22 @@ networkx==3.2.1
 numpy==1.26.3
 open3d==0.18.0
 opencv-python==3.4.18.65
-packaging @ file:///C:/b/abs_28t5mcoltc/croot/packaging_1693575224052/work
 pandas==2.2.0
 parso==0.8.3
 piexif==1.1.3
 pillow==10.2.0
-platformdirs @ file:///C:/b/abs_b6z_yqw_ii/croot/platformdirs_1692205479426/work
 plotly==5.18.0
-pluggy @ file:///C:/ci_311/pluggy_1676422178143/work
 plyfile==1.0.3
 prompt-toolkit==3.0.43
 protobuf==4.25.3
 pure-eval==0.2.2
 pyarrow==15.0.1
-pycosat @ file:///C:/b/abs_31zywn1be3/croot/pycosat_1696537126223/work
-pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
 pydantic==2.6.4
 pydantic_core==2.16.3
 pydeck==0.8.1b0
 Pygments==2.17.2
-pyOpenSSL @ file:///C:/b/abs_08f38zyck4/croot/pyopenssl_1690225407403/work
 pyparsing==3.1.2
 pyproj==3.6.1
-PySocks @ file:///C:/ci_311/pysocks_1676425991111/work
 python-dateutil==2.8.2
 python-multipart==0.0.9
 pytz==2024.1
@@ -97,11 +81,9 @@ pywin32==306
 PyYAML==6.0.1
 referencing==0.32.1
 regex==2023.12.25
-requests @ file:///C:/b/abs_316c2inijk/croot/requests_1690400295842/work
 retrying==1.3.4
 rich==13.7.1
 rpds-py==0.17.1
-ruamel.yaml @ file:///C:/ci_311/ruamel.yaml_1676439214109/work
 s3transfer==0.10.0
 safetensors==0.4.2
 six==1.16.0
@@ -119,18 +101,14 @@ torch==2.2.1+cu118
 torchaudio==2.2.1+cu118
 torchvision==0.17.1+cu118
 tornado==6.4
-tqdm @ file:///C:/b/abs_f76j9hg7pv/croot/tqdm_1679561871187/work
 traitlets==5.14.1
 transformers==4.38.2
-truststore @ file:///C:/b/abs_55z7b3r045/croot/truststore_1695245455435/work
 typing_extensions==4.9.0
 tzdata==2023.4
-urllib3 @ file:///C:/b/abs_9cmlsrm3ys/croot/urllib3_1698257595508/work
 uvicorn==0.28.0
 watchdog==4.0.0
 wcwidth==0.2.13
 Werkzeug==3.0.1
 widgetsnbextension==4.0.9
-win-inet-pton @ file:///C:/ci_311/win_inet_pton_1676425458225/work
 zipp==3.17.0
 zstandard==0.19.0
